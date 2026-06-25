@@ -1,14 +1,16 @@
 <div align="center">
 
-# 👋 Hey there, I'm Devansh Dayama
+# 👋 Hi, I'm Devansh Dayama
 
-### 💻 Java Backend Developer | Spring Boot Enthusiast | REST API Developer
+### Java Backend Developer | Spring Boot | REST APIs | MySQL | React
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=850&lines=Building+Scalable+Backend+Applications;Java+%7C+Spring+Boot+%7C+Spring+Security;REST+API+Developer;Always+Learning+Always+Building+🚀" />
+<p>
+Building scalable backend applications with clean architecture and modern Java technologies.
+</p>
 
-<p align="center">
+<p>
 <a href="mailto:devansshofficial@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/devansh-dayama">
@@ -21,7 +23,7 @@
 
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Devansh23dayama&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=Devansh23dayama&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
 
 </div>
 
@@ -29,133 +31,60 @@
 
 # 💫 About Me
 
-```java
-public class DevanshDayama {
+I'm a **Java Backend Developer** passionate about designing clean, scalable, and maintainable backend applications.
 
-    private final String role = "Java Backend Developer";
+Currently working as a **Java Developer Intern**, I enjoy building REST APIs, designing layered architectures, optimizing SQL queries, and solving real-world backend challenges using the Spring ecosystem.
 
-    private final String currentCompany = "Regex Software Services";
-
-    private final String education = "Bachelor of Computer Application";
-
-    private final String university = "University of Rajasthan";
-
-    private final String currentFocus =
-            "Building scalable backend applications using Java and Spring Boot";
-
-    private final String[] backendSkills = {
-
-            "Core Java",
-            "Spring Boot",
-            "Spring Security",
-            "Spring MVC",
-            "REST APIs",
-            "Spring Data JPA",
-            "JDBC",
-            "Servlets",
-            "MySQL"
-
-    };
-
-    public void sayHello() {
-        System.out.println("Let's build something amazing 🚀");
-    }
-
-}
-```
+I believe in writing code that is not only functional but also maintainable and production-ready.
 
 ---
 
-# 🚀 What I'm Working On
+# 🚀 Current Focus
 
-- 🔥 Building scalable backend applications
-- 🌱 Deepening expertise in Spring Security
-- ⚡ Designing clean RESTful APIs
-- 🏗 Writing maintainable layered architecture
-- 📚 Practicing Data Structures & Algorithms
-- 💡 Exploring System Design fundamentals
+- 🌱 Building scalable backend applications
+- 🔐 Learning Spring Security deeply
+- ⚡ Designing clean REST APIs
+- 🗄 Improving database design and query optimization
+- 📚 Strengthening Data Structures & Algorithms
+- 💡 Exploring scalable software architecture
 
 ---
 
 # 🛠 Tech Stack
 
-## 👨‍💻 Languages
+## Languages
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql"/>
-
 </p>
 
----
-
-## ⚙ Backend Development
+## Backend
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=spring,maven"/>
-
 </p>
 
-### Technologies
+### Frameworks & Technologies
 
 - Spring Boot
 - Spring MVC
-- Spring Security
 - Spring Data JPA
+- Spring Security
 - JDBC
-- Java Servlets
+- Servlets
 - REST APIs
 - Swagger UI
 - Postman
 
 ---
 
-## 🗄 Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-</p>
-
----
-
-## 💻 Development Tools
+# 💻 Development Tools
 
 <p>
 
 <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,eclipse"/>
 
 </p>
-
----
-
-# 🏗 Backend Architecture I Follow
-
-```text
-                Client
-
-                   │
-
-          HTTP Request
-
-                   │
-
-        REST Controller Layer
-
-                   │
-
-          Service Layer
-
-                   │
-
-      Repository / DAO Layer
-
-                   │
-
-              MySQL Database
-```
 
 ---
 
@@ -167,19 +96,14 @@ public class DevanshDayama {
 
 Java • JDBC • Servlets • MySQL • MVC
 
-### Features
+### Highlights
 
-✔ Layered Architecture
-
-✔ DAO Pattern
-
-✔ DTO Pattern
-
-✔ CRUD Operations
-
-✔ JDBC Integration
-
-✔ MVC Design
+- Layered MVC Architecture
+- DAO Pattern
+- DTO Pattern
+- JDBC Database Connectivity
+- CRUD Operations
+- Clean Separation of Concerns
 
 🔗 Repository
 
@@ -193,19 +117,14 @@ https://github.com/Devansh23dayama/Patient-Management-System
 
 Spring Boot • Spring Data JPA • REST APIs • MySQL
 
-### Features
+### Highlights
 
-✔ REST APIs
-
-✔ CRUD Operations
-
-✔ DTO Mapping
-
-✔ Global Exception Handling
-
-✔ MySQL Integration
-
-✔ Layered Architecture
+- Layered Architecture
+- RESTful APIs
+- CRUD Operations
+- DTO Mapping
+- Global Exception Handling
+- MySQL Integration
 
 🔗 Repository
 
@@ -213,7 +132,37 @@ https://github.com/Devansh23dayama/Inventory_Mangement
 
 ---
 
-# 📈 GitHub Analytics
+# 💼 Experience
+
+## Java Developer Intern
+
+**Regex Software Services**
+
+✔ Developed backend applications using Java and Spring Boot
+
+✔ Built RESTful APIs
+
+✔ Worked with JDBC and MySQL
+
+✔ Connected Spring Boot backend with React frontend
+
+✔ Followed Controller → Service → DAO architecture
+
+✔ Optimized SQL queries
+
+---
+
+# 🎓 Education
+
+**Bachelor of Computer Application**
+
+University of Rajasthan
+
+2023 – 2026
+
+---
+
+# 📈 GitHub Statistics
 
 <p align="center">
 
@@ -233,6 +182,8 @@ https://github.com/Devansh23dayama/Inventory_Mangement
 
 ---
 
+# 📊 Contribution Graph
+
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devansh23dayama&theme=tokyo-night&hide_border=true"/>
@@ -241,105 +192,60 @@ https://github.com/Devansh23dayama/Inventory_Mangement
 
 ---
 
-# 🎯 Core Competencies
-
-### Backend
+# 🧠 Core Skills
 
 - Core Java
-- Spring Boot
-- Spring MVC
-- Spring Security
-- REST APIs
-- Spring Data JPA
+- Object-Oriented Programming
+- Collections Framework
+- Exception Handling
+- Multithreading Basics
 - JDBC
 - Servlets
-
-### Database
-
+- Spring Boot
+- Spring MVC
+- Spring Data JPA
+- Spring Security
+- REST APIs
+- SQL
 - MySQL
-- SQL Query Optimization
-- CRUD Operations
-
-### Software Engineering
-
-- Object-Oriented Programming
 - Layered Architecture
-- MVC Pattern
 - DTO Pattern
 - DAO Pattern
-
-### Tools
-
-- Git
-- GitHub
-- IntelliJ IDEA
-- Eclipse
-- VS Code
-- Postman
-- Swagger UI
+- Git & GitHub
 
 ---
 
-# 📚 Learning Roadmap
+# 📚 Currently Learning
 
-```text
-✅ Core Java
-
-✅ JDBC
-
-✅ Servlets
-
-✅ Spring Boot
-
-✅ REST APIs
-
-✅ Spring Data JPA
-
-🔄 Spring Security
-
-🔄 JWT Authentication
-
-🔄 Redis
-
-🔄 WebSockets
-
-🎯 Docker
-
-🎯 Microservices
-
-🎯 System Design
-
-🎯 AWS
-```
+- Spring Security
+- JWT Authentication
+- Redis
+- WebSockets
+- Microservices
+- System Design
 
 ---
 
 # 💡 Developer Philosophy
 
-> **"Great software is built by writing clean, maintainable code that solves real-world problems."**
+> "Clean code is not just about making software work—it's about making it understandable, maintainable, and scalable."
 
 ---
 
-# 📫 Let's Connect
+# 📫 Connect With Me
 
 <p align="center">
 
 <a href="mailto:devansshofficial@gmail.com">
-
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
 </a>
 
 <a href="https://linkedin.com/in/devansh-dayama">
-
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
 </a>
 
 <a href="https://github.com/Devansh23dayama">
-
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
 </a>
 
 </p>
@@ -348,10 +254,10 @@ https://github.com/Devansh23dayama/Inventory_Mangement
 
 <div align="center">
 
-## 🚀 Thanks for visiting my profile!
+### ⭐ Thank you for visiting my GitHub profile!
 
-*"Code. Learn. Build. Repeat."*
+If you like my work, consider giving a ⭐ to my repositories.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F172A,50:1E3A8A,100:38BDF8&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0F2027,50:203A43,100:2C5364&section=footer"/>
 
 </div>
