@@ -1,173 +1,263 @@
-<h1 align="center">Hi 👋, I'm Devansh Dayama</h1>
-<h3 align="center">Java Backend Developer | Spring Boot | REST APIs | SQL | DSA Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <a href="mailto:devansshofficial@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/devansh-dayama">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://github.com/Devansh23dayama">
-    <img src="https://img.shields.io/github/followers/Devansh23dayama?style=for-the-badge&logo=github">
-  </a>
+# 👋 Hi, I'm Devansh Dayama
+
+### Java Backend Developer | Spring Boot | REST APIs | MySQL | React
+
+<p>
+Building scalable backend applications with clean architecture and modern Java technologies.
+</p>
+
+<p>
+<a href="mailto:devansshofficial@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/devansh-dayama">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Devansh23dayama">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Devansh23dayama&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
+
+</div>
+
+---
+
+# 💫 About Me
+
+I'm a **Java Backend Developer** passionate about designing clean, scalable, and maintainable backend applications.
+
+Currently working as a **Java Developer Intern**, I enjoy building REST APIs, designing layered architectures, optimizing SQL queries, and solving real-world backend challenges using the Spring ecosystem.
+
+I believe in writing code that is not only functional but also maintainable and production-ready.
+
+---
+
+# 🚀 Current Focus
+
+- 🌱 Building scalable backend applications
+- 🔐 Learning Spring Security deeply
+- ⚡ Designing clean REST APIs
+- 🗄 Improving database design and query optimization
+- 📚 Strengthening Data Structures & Algorithms
+- 💡 Exploring scalable software architecture
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,html,css,mysql"/>
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,maven"/>
+</p>
+
+### Frameworks & Technologies
+
+- Spring Boot
+- Spring MVC
+- Spring Data JPA
+- Spring Security
+- JDBC
+- Servlets
+- REST APIs
+- Swagger UI
+- Postman
+
+---
+
+# 💻 Development Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,eclipse"/>
+
 </p>
 
 ---
 
-# 👨‍💻 About Me
-
-I'm a passionate **Java Backend Developer** with hands-on experience building scalable backend applications using **Spring Boot**, **REST APIs**, **Spring Data JPA**, and **MySQL**.
-
-Currently working as a **Java Developer Intern**, where I build real-world backend applications following industry-standard layered architecture.
-
-I enjoy solving complex problems through **Data Structures & Algorithms** and continuously improve my software engineering skills by building projects and learning modern backend technologies.
-
----
-
-# 🚀 What I'm Currently Working On
-
-- 🔥 Building scalable Spring Boot applications
-- 📚 Mastering Spring Security & JWT Authentication
-- ☁️ Learning Microservices Architecture
-- 💻 Solving DSA problems daily
-- 🚀 Preparing for Java Backend Developer roles
-
----
-
-# 🛠️ Tech Stack
-
-### Languages
-- Java
-- SQL
-- JavaScript
-- HTML
-- CSS
-
-### Backend
-- Spring Boot
-- Spring MVC
-- Spring Security
-- Spring Data JPA
-- JDBC
-- Servlets
-- REST APIs
-
-### Database
-- MySQL
-
-### Tools
-- Git
-- GitHub
-- Postman
-- Swagger UI
-- IntelliJ IDEA
-- Eclipse
-- VS Code
-- STS
-
-### Concepts
-- Object Oriented Programming
-- Data Structures & Algorithms
-- MVC Architecture
-- Layered Architecture
-- DTO Pattern
-- CRUD Operations
-- Exception Handling
-
----
-
-# 📌 Featured Projects
+# 📂 Featured Projects
 
 ## 🏥 Patient Management System
 
-A Java Servlet-based web application built using MVC Architecture.
+### Tech Stack
 
-### Features
+Java • JDBC • Servlets • MySQL • MVC
 
-- Patient CRUD Operations
-- Layered Architecture
-- JDBC Integration
-- MySQL Database
-- Service & DAO Layer
+### Highlights
+
+- Layered MVC Architecture
+- DAO Pattern
 - DTO Pattern
+- JDBC Database Connectivity
+- CRUD Operations
+- Clean Separation of Concerns
 
-🔗 Repository:
+🔗 Repository
+
 https://github.com/Devansh23dayama/Patient-Management-System
 
 ---
 
 ## 📦 Inventory Management System
 
-Enterprise-level backend application developed using Spring Boot.
+### Tech Stack
 
-### Features
+Spring Boot • Spring Data JPA • REST APIs • MySQL
 
-- REST APIs
-- Spring Data JPA
-- MySQL
-- DTO Mapping
-- Exception Handling
+### Highlights
+
+- Layered Architecture
+- RESTful APIs
 - CRUD Operations
-- Supplier & Product Management
+- DTO Mapping
+- Global Exception Handling
+- MySQL Integration
 
-🔗 Repository:
+🔗 Repository
+
 https://github.com/Devansh23dayama/Inventory_Mangement
 
 ---
 
-# 📈 GitHub Stats
+# 💼 Experience
+
+## Java Developer Intern
+
+**Regex Software Services**
+
+✔ Developed backend applications using Java and Spring Boot
+
+✔ Built RESTful APIs
+
+✔ Worked with JDBC and MySQL
+
+✔ Connected Spring Boot backend with React frontend
+
+✔ Followed Controller → Service → DAO architecture
+
+✔ Optimized SQL queries
+
+---
+
+# 🎓 Education
+
+**Bachelor of Computer Application**
+
+University of Rajasthan
+
+2023 – 2026
+
+---
+
+# 📈 GitHub Statistics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Devansh23dayama&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Devansh23dayama&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh23dayama&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Devansh23dayama&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh23dayama&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 Achievements
+<p align="center">
 
-- 💼 Java Developer Intern
-- 🚀 Built multiple backend applications using Spring Boot
-- 📚 Strong foundation in Core Java and SQL
-- 💡 Consistent DSA Practice
-- 🌱 Continuous Learner
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Devansh23dayama&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-# 📖 Currently Learning
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Devansh23dayama&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🧠 Core Skills
+
+- Core Java
+- Object-Oriented Programming
+- Collections Framework
+- Exception Handling
+- Multithreading Basics
+- JDBC
+- Servlets
+- Spring Boot
+- Spring MVC
+- Spring Data JPA
+- Spring Security
+- REST APIs
+- SQL
+- MySQL
+- Layered Architecture
+- DTO Pattern
+- DAO Pattern
+- Git & GitHub
+
+---
+
+# 📚 Currently Learning
 
 - Spring Security
 - JWT Authentication
 - Redis
-- Docker
+- WebSockets
 - Microservices
 - System Design
-- Design Patterns
 
 ---
 
-# 🤝 Let's Connect
+# 💡 Developer Philosophy
 
-📧 Email: **devansshofficial@gmail.com**
-
-💼 LinkedIn:
-https://www.linkedin.com/in/devansh-dayama
-
-💻 GitHub:
-https://github.com/Devansh23dayama
+> "Clean code is not just about making software work—it's about making it understandable, maintainable, and scalable."
 
 ---
 
-<h3 align="center">
-"First, solve the problem. Then, write the code." 🚀
-</h3>
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:devansshofficial@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/devansh-dayama">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Devansh23dayama">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thank you for visiting my GitHub profile!
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0F2027,50:203A43,100:2C5364&section=footer"/>
+
+</div>
