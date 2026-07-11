@@ -1,241 +1,505 @@
-::: {align="center"}
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=220&section=header&text=Devansh%20Dayama&fontSize=42&fontColor=ffffff&animation=fadeIn"/>`{=html}
+<div align="center">
 
-# 👋 Hi, I'm Devansh Dayama
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,50:7C3AED,100:A855F7&text=Devansh%20Dayama&fontSize=45&fontColor=ffffff&fontAlignY=35&animation=fadeIn"/>
 
-### Java Backend Developer • Spring Boot • React • REST APIs • MySQL
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=850&lines=Java+Backend+Developer;Spring+Boot+Developer;Full+Stack+Developer;REST+API+Developer;Open+Source+Enthusiast;Always+Learning+New+Technologies"/>
 
-`<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Backend+Engineer;Spring+Boot+Developer;Java+Enthusiast;Always+Learning+New+Technologies"/>`{=html}
+<br>
 
-`<a href="mailto:devansshofficial@gmail.com">`{=html}`<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>`{=html}`</a>`{=html}
-`<a href="https://linkedin.com/in/devansh-dayama">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>`{=html}`</a>`{=html}
-`<a href="https://github.com/Devansh23dayama">`{=html}`<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>`{=html}`</a>`{=html}
+<img src="https://img.shields.io/badge/BCA-University%20of%20Rajasthan-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Java-Spring%20Boot-7C3AED?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open%20to-Full%20Time-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Location-Jaipur,%20India-9333EA?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
-![](https://komarev.com/ghpvc/?username=Devansh23dayama&style=for-the-badge&color=blueviolet)
-![](https://img.shields.io/github/followers/Devansh23dayama?style=for-the-badge)
-![](https://img.shields.io/github/stars/Devansh23dayama?affiliations=OWNER&style=for-the-badge)
-:::
+<br><br>
 
-------------------------------------------------------------------------
+<a href="mailto:devansshofficial@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/devansh-dayama">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Devansh23dayama">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://devansh23dayama.github.io">
+<img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Devansh23dayama&label=Profile%20Views&style=for-the-badge&color=7C3AED"/>
+
+<img src="https://img.shields.io/github/followers/Devansh23dayama?style=for-the-badge&color=6D28D9"/>
+
+<img src="https://img.shields.io/github/stars/Devansh23dayama?style=for-the-badge&color=8B5CF6"/>
+
+</div>
+
+---
 
 # 💫 About Me
 
-Java Backend Developer focused on building scalable enterprise
-applications using **Java, Spring Boot, Spring Security, Hibernate, JPA,
-MySQL, REST APIs and React**.
+I'm **Devansh Dayama**, a passionate **Java Backend Developer** focused on designing scalable, maintainable, and enterprise-grade applications using modern Java technologies.
 
--   🔭 Java Developer Intern
--   🌱 Learning Microservices, Redis, WebSockets & System Design
--   🤝 Open to Java Backend & Full Stack opportunities
--   💡 Passionate about clean architecture and production-ready
-    software.
+I enjoy transforming business requirements into clean software architectures while following industry best practices such as layered architecture, SOLID principles, RESTful API design, and secure application development.
 
-------------------------------------------------------------------------
+My interests include Backend Engineering, Distributed Systems, Cloud Technologies, and AI-powered Software Solutions. I continuously improve my problem-solving skills through Data Structures & Algorithms and by building production-ready projects.
+
+### 🚀 Professional Highlights
+
+- 💻 Java Backend Developer
+- 🌱 Currently learning **Microservices**, **Redis**, **WebSockets**, and **System Design**
+- 🔐 Strong interest in **Spring Security** & **JWT Authentication**
+- 🤖 Exploring AI-assisted Software Development
+- 📚 Daily DSA & LeetCode Practice
+- 🌍 Open to Backend & Full Stack Opportunities
+- 🤝 Open Source Contributor
+
+---
 
 # 🛠 Tech Stack
 
-### Languages
+## 💻 Programming Languages
 
-![](https://skillicons.dev/icons?i=java,js,html,css,mysql)
+<p align="center">
 
-### Frontend
+<img src="https://skillicons.dev/icons?i=java,js,html,css,mysql"/>
 
-![](https://skillicons.dev/icons?i=react,bootstrap)
+</p>
 
-### Backend & Databases
+---
 
-![](https://skillicons.dev/icons?i=spring,maven,hibernate,mysql)
+## 🎨 Frontend Development
 
-### Cloud • DevOps • Tools
+<p align="center">
 
-![](https://skillicons.dev/icons?i=git,github,docker,vscode,idea,eclipse,postman)
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind"/>
 
-------------------------------------------------------------------------
+</p>
+
+---
+
+## ⚙ Backend & Database
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=spring,maven,hibernate,mysql"/>
+
+</p>
+
+### Backend Technologies
+
+- Spring Boot
+- Spring MVC
+- Spring Security
+- Spring Data JPA
+- Hibernate
+- JDBC
+- Servlets
+- REST APIs
+- JWT Authentication
+- Swagger UI
+- Postman
+
+---
+
+## ☁ Cloud • DevOps • Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,eclipse,postman"/>
+
+</p>
+
+---
 
 # 🤖 AI / ML Expertise
 
-  Domain                   Proficiency    Details
-  ------------------------ -------------- ---------------------------
-  Prompt Engineering       Intermediate   AI-assisted development
-  LLM Applications         Intermediate   Productivity & automation
-  Backend AI Integration   Intermediate   REST API integration
+| Domain | Proficiency | Details |
+|----------|------------|----------|
+| Prompt Engineering | ⭐⭐⭐⭐☆ | AI-assisted software development |
+| LLM Applications | ⭐⭐⭐⭐☆ | Workflow automation & productivity |
+| Backend AI Integration | ⭐⭐⭐☆☆ | REST API integration with AI services |
+| Intelligent Automation | ⭐⭐⭐☆☆ | Building AI-enabled backend workflows |
+| Software Engineering | ⭐⭐⭐⭐⭐ | Enterprise Java development |
 
-------------------------------------------------------------------------
+---# 🚀 Featured Projects
 
-# 🚀 Featured Projects
-
-```{=html}
 <details>
-```
-```{=html}
-<summary>
-```
-`<b>`{=html}📦 Inventory Management System`</b>`{=html}
-```{=html}
-</summary>
-```
-  Category     Details
-  ------------ --------------------------------------------------------
-  Stack        Spring Boot, JPA, MySQL
-  Scale        CRUD APIs
-  Security     Validation & Exception Handling
-  Impact       Enterprise architecture practice
-  Repository   https://github.com/Devansh23dayama/Inventory_Mangement
+<summary><h3>🏥 Patient Management System</h3></summary>
 
-Layered architecture with DTO mapping and REST APIs.
-```{=html}
+### 📌 Overview
+
+A full-stack healthcare management application developed using Java, JDBC, Servlets, and MySQL following the MVC architecture. It enables hospitals to efficiently manage patient records with clean separation of concerns.
+
+| Category | Details |
+|-----------|---------|
+| **Tech Stack** | Java, JDBC, Servlets, JSP, MySQL |
+| **Architecture** | MVC + DAO + DTO |
+| **Database** | MySQL |
+| **Performance** | Optimized JDBC Queries |
+| **Security** | Input Validation |
+| **Impact** | Simplified Patient Record Management |
+| **Repository** | https://github.com/Devansh23dayama/Patient-Management-System |
+
+### Key Features
+
+- CRUD Operations
+- MVC Architecture
+- DAO Pattern
+- DTO Pattern
+- MySQL Integration
+- JDBC Connectivity
+- Input Validation
+- Modular Code Structure
+
 </details>
-```
-```{=html}
+
+---
+
 <details>
-```
-```{=html}
-<summary>
-```
-`<b>`{=html}🏥 Patient Management System`</b>`{=html}
-```{=html}
-</summary>
-```
-  --------------------------------------------------------------------------------------------------
-  Category                            Details
-  ----------------------------------- --------------------------------------------------------------
-  Stack                               Java, JDBC, Servlets
+<summary><h3>📦 Inventory Management System</h3></summary>
 
-  Scale                               Hospital Management
+### 📌 Overview
 
-  Security                            Input Validation
+A RESTful Inventory Management System built using Spring Boot and Spring Data JPA with enterprise-grade layered architecture.
 
-  Impact                              MVC + DAO Pattern
+| Category | Details |
+|-----------|---------|
+| **Tech Stack** | Spring Boot, JPA, Hibernate, MySQL |
+| **Architecture** | Controller → Service → Repository |
+| **API** | RESTful APIs |
+| **Performance** | Optimized Database Access |
+| **Security** | Validation + Exception Handling |
+| **Impact** | Inventory Automation |
+| **Repository** | https://github.com/Devansh23dayama/Inventory_Mangement |
 
-  Repository                          https://github.com/Devansh23dayama/Patient-Management-System
-  --------------------------------------------------------------------------------------------------
+### Key Features
 
-Built using MVC architecture with DAO and DTO patterns.
-```{=html}
+- REST APIs
+- Layered Architecture
+- DTO Mapping
+- Validation
+- Exception Handling
+- MySQL Integration
+- Swagger Documentation
+- Production Ready Structure
+
 </details>
-```
 
-------------------------------------------------------------------------
+---
 
-# 💼 Experience
+<details>
+<summary><h3>🎓 Vidhya Bharat (In Progress)</h3></summary>
 
-## Java Developer Intern --- Regex Software Services
+### 📌 Overview
 
--   Built REST APIs using Spring Boot
--   Worked with MySQL & JDBC
--   Integrated backend with React
--   Followed layered architecture
--   Improved SQL query performance
+A modern EdTech platform focused on providing an all-in-one learning ecosystem with community discussions, secure authentication, video learning, and AI-powered student support.
 
-**Skills:** `Java` `Spring Boot` `REST API` `MySQL`
+| Category | Details |
+|-----------|---------|
+| **Tech Stack** | Spring Boot, React, MySQL |
+| **Authentication** | JWT + Spring Security |
+| **Features** | Course Platform + Community |
+| **Scalability** | Modular Architecture |
+| **Repository** | Coming Soon |
 
-------------------------------------------------------------------------
+### Planned Features
+
+- Student Dashboard
+- Instructor Dashboard
+- JWT Authentication
+- Community Discussions
+- Course Management
+- Video Streaming
+- AI Doubt Support
+- Admin Panel
+- Notifications
+
+</details>
+
+---
+
+# 💼 Professional Experience
+
+## Java Developer Intern
+
+### Regex Software Services
+
+**Duration:** 2026 – Present
+
+Worked on enterprise backend development using Java technologies while contributing to real-world projects.
+
+### Responsibilities
+
+- Developed scalable REST APIs using Spring Boot.
+- Implemented CRUD applications with layered architecture.
+- Integrated Spring Boot backend with React frontend.
+- Worked extensively with MySQL and JDBC.
+- Designed reusable Service and Repository layers.
+- Optimized SQL queries for better performance.
+- Participated in debugging and production issue resolution.
+- Used Git & GitHub for version control.
+- Tested APIs using Postman.
+
+### Technologies Used
+
+`Java`
+
+`Spring Boot`
+
+`Spring Data JPA`
+
+`Hibernate`
+
+`REST APIs`
+
+`MySQL`
+
+`React`
+
+`Git`
+
+`Postman`
+
+---
 
 # 🏆 Achievements
 
-  Recognition           Details
-  --------------------- --------------------------
-  DSA Journey           Active LeetCode practice
-  Backend Development   Multiple Java projects
-  GitHub                Open-source portfolio
+<div align="center">
 
-------------------------------------------------------------------------
+| Achievement | Details |
+|-------------|---------|
+| 💻 Java Backend Developer | Built multiple enterprise Java applications |
+| 🚀 Spring Boot | Developed production-ready REST APIs |
+| 📚 Continuous Learning | Daily DSA & Backend Practice |
+| 💡 Problem Solving | Regular LeetCode & Coding Challenges |
+| 🌟 Open Source | Active GitHub Projects |
+| 🤝 Collaboration | Git Workflow & Team Development |
+
+</div>
+
+---
+
+# 🎓 Education
+
+## Bachelor of Computer Applications (BCA)
+
+**University of Rajasthan**
+
+**2023 – 2026**
+
+### Relevant Coursework
+
+- Data Structures & Algorithms
+- Database Management Systems
+- Object-Oriented Programming
+- Software Engineering
+- Operating Systems
+- Computer Networks
+- Web Development
+- Java Programming
+
+---
 
 # 📜 Certifications
 
-**Oracle • NPTEL • Cisco • AWS (Learning Path)**
+## Oracle
 
-------------------------------------------------------------------------
+- Oracle Java Programming *(Learning Path)*
+
+---
+
+## AWS
+
+- AWS Cloud Practitioner *(Learning Path)*
+
+---
+
+## Cisco
+
+- Networking Fundamentals
+- Introduction to Cyber Security
+
+---
+
+## NPTEL
+
+- Programming & Software Engineering Courses
+
+---
 
 # 💻 Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge)](https://codechef.com/)
+<div align="center">
 
-------------------------------------------------------------------------
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
-# 📊 GitHub Analytics
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
 
-```{=html}
-<p align="center">
-```
-`<img height="170" src="https://github-readme-stats.vercel.app/api?username=Devansh23dayama&show_icons=true&theme=tokyonight&hide_border=true"/>`{=html}
-`<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh23dayama&layout=compact&theme=tokyonight&hide_border=true"/>`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://github-readme-streak-stats.herokuapp.com/?user=Devansh23dayama&theme=tokyonight&hide_border=true"/>`{=html}
-```{=html}
-</p>
-```
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
 
-------------------------------------------------------------------------
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge"/>
+</a>
 
-# 🏅 GitHub Trophies
+</div>
 
-```{=html}
-<p align="center">
-```
-`<img src="https://github-profile-trophy.vercel.app/?username=Devansh23dayama&theme=tokyonight&no-frame=true&row=1&column=7"/>`{=html}
-```{=html}
-</p>
-```
+---# 📊 GitHub Analytics
 
-------------------------------------------------------------------------
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Devansh23dayama&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Devansh23dayama&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh23dayama&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Devansh23dayama&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
 
 # 📈 Contribution Activity
 
-```{=html}
-<p align="center">
-```
-`<img src="https://github-readme-activity-graph.vercel.app/graph?username=Devansh23dayama&theme=tokyo-night"/>`{=html}
-```{=html}
-</p>
-```
+<div align="center">
 
-------------------------------------------------------------------------
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Devansh23dayama&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
 
 # 🐍 Contribution Snake
 
-``` text
-Enable GitHub Action:
-Platane/snk
-Output: github-contribution-grid-snake.svg
-```
+<div align="center">
 
-------------------------------------------------------------------------
+<img src="https://raw.githubusercontent.com/Devansh23dayama/Devansh23dayama/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+> **Note:** You need to enable a GitHub Action to generate the snake animation.
+>
+> Repository:
+>
+> https://github.com/Platane/snk
+
+---
 
 # 🎯 Current Focus
 
-``` yaml
+```yaml
 Learning:
   - Spring Security
+  - JWT Authentication
   - Redis
+  - WebSockets
   - Microservices
-Building:
-  - Enterprise Java Applications
-Exploring:
+  - Docker
+  - Kubernetes
+  - AWS Cloud
   - System Design
-OpenTo:
-  - Java Backend Roles
+
+Building:
+  - Enterprise Backend Applications
+  - REST APIs
+  - AI Enabled Applications
+  - Full Stack Projects
+
+Exploring:
+  - Distributed Systems
+  - Event Driven Architecture
+  - Scalable Backend Systems
+  - Design Patterns
+
+Practicing:
+  - Data Structures
+  - Algorithms
+  - LeetCode
+  - Java Interview Questions
+
+Open To:
+  - Java Backend Developer
+  - Software Engineer
+  - Backend Engineer
+  - Full Stack Developer
 ```
 
-------------------------------------------------------------------------
+---
 
-# 📫 Connect
+# 💡 Developer Philosophy
 
--   Email: devansshofficial@gmail.com
--   LinkedIn: https://linkedin.com/in/devansh-dayama
--   GitHub: https://github.com/Devansh23dayama
+> **"Great software is built through clean architecture, continuous learning, and attention to detail."**
 
-------------------------------------------------------------------------
+> **"Write code for humans first, computers second."**
 
-> "Building reliable software through clean architecture, continuous
-> learning, and engineering excellence."
+---
 
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=140&section=footer"/>`{=html}
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:devansshofficial@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/devansh-dayama">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Devansh23dayama">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-Coming_Soon-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# ☕ Support My Work
+
+<div align="center">
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+It motivates me to build more open-source projects and contribute to the developer community.
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile ❤️
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:4F46E5,50:7C3AED,100:A855F7&section=footer"/>
+
+</div>
